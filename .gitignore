@@ -1,4 +1,6 @@
 *.py[oc]
+*.egg-info
+*.egg
 
 build
 dist
